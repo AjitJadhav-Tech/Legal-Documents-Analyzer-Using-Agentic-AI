@@ -2,8 +2,6 @@
 
 AI-powered legal document analysis using Amazon Bedrock's multi-agent collaboration. Upload contracts, emails, or legal documents and receive comprehensive analysis including classification, PII detection, risk assessment, and actionable recommendations.
 
-![CloudAge](https://assets.cloudage.llc/logo.png)
-
 ---
 
 ## Features
@@ -372,7 +370,7 @@ pytest
 
 ## License
 
-CloudAge Global — Internal Use
+Internal Use
 
 ---
 
