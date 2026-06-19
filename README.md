@@ -19,7 +19,7 @@ AI-powered legal document analysis using Amazon Bedrock's multi-agent collaborat
 
 ---
 
-## Architecture: Multi-Agent Collaboration
+## Architecture: Multi-Agent Collaboration  ![Architecture Design](Documents/PreSales_ArchitectsGuide/Architecture_Design.png)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
